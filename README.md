@@ -14,4 +14,4 @@ If no table name is passed, all of the configured `DB_SCHEMA` will be used.
 `/change license:1234 license:2345 players characters owned_vehicles`  
 
 # Dependencies
-- oxmysql
+- [oxmysql](https://github.com/overextended/oxmysql)
